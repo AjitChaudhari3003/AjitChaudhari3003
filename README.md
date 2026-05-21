@@ -7,4 +7,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AjitChaudhari3003&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjitChaudhari3003&layout=compact&theme=radical)
+
