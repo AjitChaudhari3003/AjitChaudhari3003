@@ -4,6 +4,6 @@
 # 📊 GitHub Stats:
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AjitChaudhari3003&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AjitChaudhari3003&theme=radical)
 
 
